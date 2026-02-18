@@ -1,4 +1,4 @@
-package com.bngs0.memeschallange
+package com.bngs0.catchthememes
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

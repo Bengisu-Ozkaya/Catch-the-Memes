@@ -1,4 +1,4 @@
-package com.bngs0.memeschallange
+package com.bngs0.catchthememes
 
 import org.junit.Test
 
